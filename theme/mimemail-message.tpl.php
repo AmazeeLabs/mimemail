@@ -71,8 +71,6 @@
             <?php print $body ?>
           </td>
         </tr>
-        <br>
-        <br>
         <tr>
           <td class="avatar_container-padding" style="border-left-color:#e0e0e0; border-left-style:solid; border-left-width:1px; padding:0 30px 20px">
             <div class="avatar_wrapper" width="50" height="40" align="left">
