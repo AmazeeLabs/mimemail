@@ -57,7 +57,7 @@
       <table width="600" cellpadding="0" cellspacing="0" border="0" class="container" bgcolor="#ffffff">
         <tr>
           <td class="header">
-            <div>�</div>
+            <div></div>
           </td>
         </tr>
         <tr>
@@ -74,21 +74,21 @@
         <br>
         <br>
         <tr>
-          <td class="avatar_container-padding">
+          <td class="avatar_container-padding" style="border-left-color:#e0e0e0; border-left-style:solid; border-left-width:1px; padding:0 30px 20px">
             <div class="avatar_wrapper" width="50" height="40" align="left">
-              <img src="https://static.intercomassets.com/avatars/137801/square_50/Joel_Samsinger.jpg?1439199360" height="40" width="40" class="avatar" alt=" ">
+              <img src="https://static.intercomassets.com/avatars/137801/square_50/Joel_Samsinger.jpg?1439199360" height="40" width="40" class="avatar" alt=" " style="border-radius:20px; display:block; float:left; min-height:40px; width:40px">
             </div>
-            <div class="admin_name">
+            <div class="admin_name" style="float:left; margin:11px 0 0 10px">
               <b>Joel Samsinger</b> from FOR
             </div>
           </td>
         </tr>
         <tr>
           <td>
-            <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#fbfbfb" class="footer">
+            <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#fbfbfb" class="footer" style="border-top-color:#efefef; border-top-style:solid; border-top-width:1px; height:69px; width:100%">
               <tr>
-                <td class="social">
-                  Follow us:<a href="https://twitter.com/for_org" class="twitter"><img src="http://cl.ly/image/3F1s2K34012V/twitter.png" width="20" height="20"> Twitter</a> <a href="https://www.facebook.com/for.organisation" class="facebook"><img src="http://cl.ly/image/3P3M3S1T093M/facebook.png" width="20" height="20">  Facebook</a>
+                <td class="social" align="center" style="border-left-color:#e0e0e0; border-left-style:none; border-left-width:1px; color:#434343; font-size:12px; line-height:20px; text-align:center; vertical-align:middle; width:60%">
+                  Follow us:<a href="https://twitter.com/for_org" class="twitter" style="color:#00aced; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3F1s2K34012V/twitter.png" width="20" height="20"> Twitter</a> <a href="https://www.facebook.com/for.organisation" class="facebook" style="color:#6d83bc; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3P3M3S1T093M/facebook.png" width="20" height="20">  Facebook</a>
                 </td>
               </tr>
             </table>
