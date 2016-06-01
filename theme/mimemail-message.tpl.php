@@ -57,11 +57,11 @@
       <table width="600" cellpadding="0" cellspacing="0" border="0" class="container" bgcolor="#ffffff">
         <tr>
           <td class="header">
-            <div></div>
+            <div style="background:#3e71b8;min-height:5px"></div>
           </td>
         </tr>
         <tr>
-          <td class="logo">
+          <td class="logo" align="center" style="border-bottom-color:#efefef;border-bottom-style:solid;border-bottom-width:1px;border-left-color:#e0e0e0;border-left-style:solid;border-left-width:1px;padding:20px 0;text-align:center">
             <img src="https://www.for.org/sites/default/files/logo200px.png" title="FOR Logo">
           </td>
         </tr>
@@ -88,7 +88,7 @@
             <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#fbfbfb" class="footer" style="border-top-color:#efefef; border-top-style:solid; border-top-width:1px; height:69px; width:100%">
               <tr>
                 <td class="social" align="center" style="border-left-color:#e0e0e0; border-left-style:none; border-left-width:1px; color:#434343; font-size:12px; line-height:20px; text-align:center; vertical-align:middle; width:60%">
-                  Follow us:<a href="https://twitter.com/for_org" class="twitter" style="color:#00aced; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3F1s2K34012V/twitter.png" width="20" height="20"> Twitter</a> <a href="https://www.facebook.com/for.organisation" class="facebook" style="color:#6d83bc; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3P3M3S1T093M/facebook.png" width="20" height="20">  Facebook</a>
+                  Follow us: <a href="https://twitter.com/for_org" class="twitter" style="color:#00aced; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3F1s2K34012V/twitter.png" width="20" height="20"> Twitter</a> <a href="https://www.facebook.com/for.organisation" class="facebook" style="color:#6d83bc; font-weight:bold; text-decoration:none" target="_blank"><img src="http://cl.ly/image/3P3M3S1T093M/facebook.png" width="20" height="20">  Facebook</a>
                 </td>
               </tr>
             </table>
