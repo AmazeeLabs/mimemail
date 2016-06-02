@@ -74,10 +74,10 @@
         <tr>
           <td class="avatar_container-padding" style="border-left-color:#e0e0e0; border-left-style:solid; border-left-width:1px; padding:0 30px 20px">
             <div class="avatar_wrapper" width="50" height="40" align="left">
-              <img src="https://static.intercomassets.com/avatars/137801/square_50/Joel_Samsinger.jpg?1439199360" height="40" width="40" class="avatar" alt=" " style="border-radius:20px; display:block; float:left; min-height:40px; width:40px">
+              <img src="https://static.intercomcdn.com/avatars/46470/square_128/Ursula_Stocker_0578.JPG?1422613146" height="40" width="40" class="avatar" alt=" " style="border-radius:20px; display:block; float:left; min-height:40px; width:40px">
             </div>
             <div class="admin_name" style="float:left; margin:11px 0 0 10px">
-              <b>Joel Samsinger</b> from FOR
+              <b>Ursula Stocker</b> Executive Director FOR Center
             </div>
           </td>
         </tr>
