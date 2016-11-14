@@ -43,6 +43,17 @@
     table.footer td.social img { vertical-align: middle; }
     table.footer td.subscription { width: 40%; }
     table.footer td.subscription a { color: #434343; }
+    a.button {
+      letter-spacing: 0.1em;
+      color: #fff;
+      text-decoration: none;
+      background-color: #4d7ec3;
+      border-radius: 4px;
+      padding: 10px 20px;
+    }
+    a.button:hover, a.button:active, a.button:focus {
+      background-color: #3d6fb4;
+    }
 
     .avatar_container-padding { padding: 0 30px 20px 30px; }
     .avatar { float: left; display: block; width: 40px; height: 40px; -webkit-border-radius: 20px; border-radius: 20px; -webkit-background-clip: padding-box; background-clip: padding-box; }
