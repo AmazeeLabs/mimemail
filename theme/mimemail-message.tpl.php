@@ -80,7 +80,7 @@
           <td class="container-padding" bgcolor="#ffffff" style="background-color: #ffffff; padding-left: 30px; padding-right: 30px; border-left-color:#e0e0e0; border-left-style:solid; border-left-width:1px; padding-right:30px">
             <br>
             <?php print $body ?>
-            <?php print t('Best regards') . ',';?>
+            <p><?php print t('Best regards') . ',';?></p>
           </td>
         </tr>
         <tr>
