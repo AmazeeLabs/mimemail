@@ -86,10 +86,10 @@
         <tr>
           <td class="avatar_container-padding" style="border-left-color:#e0e0e0; border-left-style:solid; border-left-width:1px; padding:0 30px 20px">
             <div class="avatar_wrapper" width="50" height="40" align="left">
-              <img src="https://static.intercomassets.com/avatars/46470/square_128/11-cut-1463916441.jpg?1463916441" height="40" width="40" class="avatar" alt=" " style="border-radius:20px; display:block; float:left; min-height:40px; width:40px">
+              <img src="https://static.intercomassets.com/avatars/1633646/square_128/Michael_Hotze-1511444243.jpg?1511444243" height="40" width="40" class="avatar" alt=" " style="border-radius:20px; display:block; float:left; min-height:40px; width:40px">
             </div>
             <div class="admin_name" style="float:left; margin:11px 0 0 10px">
-              <b>Ursula Stocker</b> Executive Director FOR Center
+              <p><?php print t('<b>@name</b> Director of FOR', array('@name' => 'Michael Hotze')); ?></p>
             </div>
           </td>
         </tr>
